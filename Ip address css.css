@@ -1,0 +1,47 @@
+body {
+    background-color: #171717;
+}
+
+p {
+    color: #20C20E;
+    font-family: 'VT323', monospace;
+    font-size: 25px;
+}
+
+h1 {
+    color: #15a105;
+    font-family: 'Nanum Gothic Coding', monospace;
+    text-align: center;
+}
+
+ol {
+    color: white;
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+img {
+    width: 900px;
+    height: 500px;
+}
+
+.tip {
+    color: yellow;
+    font-family: 'VT323', monospace;
+    font-size: 15px;
+}
+
+img {
+    border: solid white 1px;
+}
+
+hr {
+    width: 1500px;
+    margin-left: -400px;
+}
